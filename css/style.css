@@ -1,0 +1,38 @@
+@font-face{
+    font-family:cutie;
+    src:url(../font/cutiepie.otf);
+}
+@font-face{
+    font-family:coq;
+    src:url(../font/cock.otf);
+}
+@font-face{
+    font-family:bfeather;
+    src:url(../font/bfeather.ttf);
+}
+header, footer {
+    background:url('../img/ble.jpg') center center no-repeat;
+    size:cover;
+}
+h1{
+    font-family:cutie;
+    font-size:10vmin;
+}
+h2{
+    font-family:coq;
+    font-size:8vmin;
+}
+h3{
+    font-family:bfeather;
+}
+.poule{
+    font-family:bfeather;
+    font-size:5vmin;
+}
+.coq{
+    font-family:coq;
+    font-size:16vmin;
+}
+.opa{
+    opacity:0.8;
+}
